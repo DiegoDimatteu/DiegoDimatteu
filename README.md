@@ -15,3 +15,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoDimatteu&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<div align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoDimatteu&theme=tokyonight"/>
+</div><hr>
+
+<div>
+  <img src="https://badges.pufler.dev/commits/yearly/DiegoDimatteu"/>
+</div>
