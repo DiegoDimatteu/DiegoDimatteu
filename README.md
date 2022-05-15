@@ -1,5 +1,5 @@
 ## Olá! Me chamo Diego Dimatteu. 👋
-## Bem vindo ao meu GitHub!! 😉
+## Bem-vindo ao meu GitHub!! 😉
 
 <hr>
 
